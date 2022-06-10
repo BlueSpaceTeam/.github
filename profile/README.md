@@ -1,12 +1,12 @@
 <!--
  * @Author: fantiga
  * @Date: 2022-06-10 12:58:45
- * @LastEditTime: 2022-06-10 12:59:11
+ * @LastEditTime: 2022-06-10 13:02:19
  * @LastEditors: fantiga
  * @Description: 
  * @FilePath: /BlueSpaceTeam/profile/README.md
 -->
-## Hi there 👋
+# Hi there 👋
 
 <!--
 
@@ -19,7 +19,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Welcome to Blue Space Team
+## Welcome to Blue Space Team
 
 The name comes from the famous science fiction novel "Three-Body Problem" by Liu Cixin. The Blue Space in the book is a stellar-class warship left by mankind.
 In the end, it flew into the depths of space, entered the four-dimensional space, and continued the human civilization on Earth.
