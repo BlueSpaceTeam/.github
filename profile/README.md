@@ -1,7 +1,7 @@
 <!--
  * @Author: fantiga
  * @Date: 2022-06-10 12:58:45
- * @LastEditTime: 2022-06-10 16:28:04
+ * @LastEditTime: 2022-06-10 16:29:30
  * @LastEditors: fantiga
  * @Description: 
  * @FilePath: /BlueSpaceTeam/profile/README.md
@@ -23,6 +23,4 @@
 
 We were established on April 14, 2022.
 
-The name comes from the famous science fiction novel ***The Three-Body Problem*** by Liu Cixin. The Blue Space in the book is a stellar-class warship left by mankind.
-
-In the end, it flew into the depths of space, entered the four-dimensional space, and continued the human civilization on Earth.
+The name comes from the famous science fiction novel ***The Three-Body Problem*** by Liu Cixin. The Blue Space in the book is a stellar-class warship left by mankind. In the end, it flew into the depths of space, entered the four-dimensional space, and continued the human civilization on Earth.
